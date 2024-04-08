@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://images.pexels.com/photos/21492/pexels-photo.jpg?cs=srgb&dl=pexels-bob-clark-21492.jpg&fm=jpg;
+}
+.pamatlaukums{
+    background-color: blanchedalmond;
+    width: 500px;
+    height: 500px;
+    border: 2x solid rgb(217, 112, 133);
+    padding: 10px;
+    margin: auto;
+}
+.cataZina{
+    background-color: seagreen;
+    height: 430px ;
+    padding: 10px;
+    overflow: scroll;
+    color: brown;
+}
