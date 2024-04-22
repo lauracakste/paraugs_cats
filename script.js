@@ -1,6 +1,6 @@
 //console.log(1)
-    let zina = document.querySelector('zina').value;
-    let zinas = document.querySelector('cataZina');
+    let zina = document.querySelector('.zina');
+    let zinas = document.querySelector('.cataZina');
 
 function sutitZinu()
 {
