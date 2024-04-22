@@ -4,7 +4,7 @@
 
 function sutitZinu()
 {
-    console.log('sutitZin()darbojas');
+    console.log('sutitZinu()darbojas');
     zinas.innerHTML = zinas.innerHTML+ '<br>' +zina.value;
 }
 async function ieladetChataZinas()
