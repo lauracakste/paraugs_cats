@@ -1,17 +1,18 @@
 body{
-    background-image: url(https://images.pexels.com/photos/21492/pexels-photo.jpg?cs=srgb&dl=pexels-bob-clark-21492.jpg&fm=jpg);
+    background-image: url(https://i.natgeofe.com/n/9ac08f97-31b2-4083-b152-84a48fe95169/nationalgeographic_2723899_3x2.jpg);
 }
 .pamatlaukums{
     background-color: blanchedalmond;
     width: 500px;
     height: 500px;
-    border: 2x solid rgb(217, 112, 133);
+    border: 2px solid rgb(217, 112, 133);
     padding: 10px;
     margin: auto;
 }
 .cataZina{
     background-color: seagreen;
     height: 430px ;
+    height: 450px ;
     padding: 10px;
     overflow: scroll;
     color: brown;
